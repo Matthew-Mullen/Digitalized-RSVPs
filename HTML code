@@ -1,0 +1,19 @@
+# Used this tutorial for assistance and as a template https://www.w3schools.com/html/html_forms.asp
+<p>&nbsp;</p>
+<p>{% raw %}</p>
+<div id="webapplication">
+<div class="container">
+<h2>RSVP For x Event</h2>
+<form>
+<div class="guest-list">
+<div class="guest-list-item">
+<div class="form-block"><input required="" type="text" placeholder="First and last name" /></div>
+<div><a>Remove guest</a></div>
+</div>
+<div class="guest-list-item add-guest-item"><a>Add guest</a></div>
+</div>
+<div><button disabled="disabled" type="submit">If this lights up it is working.</button> <button type="submit">Submit </button></div>
+</form></div>
+<div class="submitted">Thank you!</div>
+</div>
+<p>{% endraw %}</p>
