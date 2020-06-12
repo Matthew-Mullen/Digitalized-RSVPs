@@ -3,7 +3,7 @@
 <p>{% raw %}</p>
 <div id="webapplication">
 <div class="container">
-<h2>RSVP For x Event</h2>
+<h1>RSVP For x Event</h1>
 <form>
 <div class="guest-list">
 <div class="guest-list-item">
